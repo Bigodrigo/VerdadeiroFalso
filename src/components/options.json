@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "mensagem":"J'étudie la biologie en Master 2.",
+        "ativo":true
+    },
+    {
+        "id":2,
+        "mensagem":"Je suis actuellement en 2ème année de Master en Affaires Européennes.",
+        "ativo":false
+    },
+    {
+        "id":3,
+        "mensagem":"Je suis en 3ème année de licence.",
+        "ativo":false
+    },
+    {
+        "id":4,
+        "mensagem":"Ce semestre, je suis inscrit(e) dans trois disciplines.",
+        "ativo":false
+    },
+    {
+        "id":5,
+        "mensagem":"Je m'intéresse aux sciences de la terre et de l'univers.",
+        "ativo":false
+    },
+    {
+        "id":6,
+        "mensagem":"Je m'intéresse aux technologies de l'information et de la communication.",
+        "ativo":false
+    },
+    {
+        "id":7,
+        "mensagem":"J'ai étudié la langue et la littérature française pendant ma licence.",
+        "ativo":false
+    },
+    {
+        "id":8,
+        "mensagem":"Je suis en M1 Littératures Françaises",
+        "ativo":false
+    },
+    {
+        "id":9,
+        "mensagem":"Je suis étudiant(e) en Doctorat.",
+        "ativo":true
+    },
+    {
+        "id":10,
+        "mensagem":"J'aime la photographie et le cinéma.",
+        "ativo":false
+    },
+    {
+        "id":11,
+        "mensagem":"Je m'intéresse aux sciences de l'éducation.",
+        "ativo":false
+    },
+    {
+        "id":12,
+        "mensagem":"Je m'intéresse aux sciences économiques et politiques.",
+        "ativo":false
+    },
+    {
+        "id":13,
+        "mensagem":"J'ai étudié les Arts Visuels.",
+        "ativo":false
+    },
+    {
+        "id":14,
+        "mensagem":"Je suis diplômé(e) d'un Master.",
+        "ativo":false
+    },
+    {
+        "id":15,
+        "mensagem":"Je suis diplômé(e) d'une licence en droit.",
+        "ativo":false
+    },
+    {
+        "id":16,
+        "mensagem":"Je m'intéresse au sujet de la santé",
+        "ativo":false
+    },
+    {
+        "id":17,
+        "mensagem":"Je m'intéresse aux sciences de l'ingénieur.",
+        "ativo":false
+    },
+    {
+        "id":18,
+        "mensagem":"Je m'intéresse aux sciences humaines et sociales.",
+        "ativo":false
+    }
+]
