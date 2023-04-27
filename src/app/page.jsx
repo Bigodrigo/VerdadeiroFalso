@@ -24,7 +24,7 @@ export default function Home() {
 
   return (
     <main className="items-center justify-between p-10">
-      <h1 className='text-center text-lg'>c'est vrai? c'est faux!</h1>
+      <h1 className='text-center text-lg'>c&apos;est vrai? c&apos;est faux!</h1>
       <div className="grid grid-cols-2 md:grid-cols-3 gap-4 p-5 bg-white">
         <button key={1} onClick={()=>{setShow1(!show1)}} className="flex-1 p-5 shadow-md rounded-lg bg-black">
             {show1 ? options[0].mensagem : 1}
