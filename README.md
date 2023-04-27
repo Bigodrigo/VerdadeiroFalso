@@ -1,3 +1,6 @@
 Atividade CLA Professora Júlia!
 
-Editar layout e page!
+Acessível em:
+https://cla-ju.vercel.app
+
+Falta ajustar cores e Header!
