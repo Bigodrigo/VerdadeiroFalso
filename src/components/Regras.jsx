@@ -57,7 +57,7 @@ const Regras = ({open, setOpen}) => {
                             <p><span className='font-bold'>LIRE</span> la phrase à haute-voix</p>
                         </div>
                         <p className="text-md text-gray-100 mx-2 px-4 flex h-16 w-64 items-center justify-center bg-cinza text-center">
-                            Je m'interésse aux sciences de l'éducation.
+                            Je m&apos;interésse aux sciences de l&apos;éducation.
                         </p>
                         <p className="text-md text-gray-100 mx-2 px-4 flex h-16 w-64 items-center justify-center bg-cinza text-center">
                             Je suis étudient(e) en Doctorat.
@@ -71,7 +71,7 @@ const Regras = ({open, setOpen}) => {
                             <p><span className='font-bold'>DIRE</span> si <span className='font-bold'>c&apos;est vrai</span> ou si <span className='font-bold'>c&apos;est faux</span></p>
                         </div>
                         <div className="text-md text-gray-900 mx-2 px-4 flex h-14 w-64 items-center justify-center border-dotted border-2 border-cinza text-center">
-                            <p><span className='font-bold'>C&apos;est vrai ! </span> Je m'intéresse aux sciences de l'éducation.</p>
+                            <p><span className='font-bold'>C&apos;est vrai ! </span> Je m&apos;intéresse aux sciences de l&apos;éducation.</p>
                         </div>
                         <div className="text-md text-gray-900 mx-2 px-4 flex h-14 w-64 items-center justify-center border-dotted border-2 border-cinza text-center">
                             <p><span className='font-bold'>C&apos;est faux ! </span> Je suis étudient(e) en Master.</p>
@@ -85,7 +85,7 @@ const Regras = ({open, setOpen}) => {
                             <p><span className='font-bold'>PASSER</span> la question à un camarade</p>
                         </div>
                         <div className="text-md text-gray-900 mx-2 px-4 flex h-20 w-64 items-center justify-center border-dotted border-2 border-cinza text-center">
-                            <p>Et vous, Pierre ? Êtes-vous intéressé par les sciences de l'éducation ?</p>
+                            <p>Et vous, Pierre ? Êtes-vous intéressé par les sciences de l&apos;éducation ?</p>
                         </div>
                         <div className="text-md text-gray-900 mx-2 px-4 flex h-20 w-64 items-center justify-center border-dotted border-2 border-cinza text-center">
                             <p>Et vous, Marie ? Êtes-vous étudiente en Doctorat ?</p>
