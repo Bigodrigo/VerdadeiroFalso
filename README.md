@@ -33,7 +33,7 @@ https://cla-ju.vercel.app
 
 <div align="center">
     <p>Jogo:</p>
-    <img src="/assets/jogo.png">
+    <img src="src/assets/jogo.png">
 </div>
 
 <div align="center">
