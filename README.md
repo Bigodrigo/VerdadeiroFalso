@@ -38,5 +38,5 @@ https://cla-ju.vercel.app
 
 <div align="center">
     <p>Regras:</p>
-    <img src="/assets/regras.png">
+    <img src="src/assets/regras.png">
 </div>
