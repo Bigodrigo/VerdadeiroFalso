@@ -21,7 +21,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site é um jogo bem simples, onde uma turma de alunos revisa seus conhecimentos sobre os números e treina a leitura. Foi pensado para uma aula de Francês básico, porém pode facilmente ser editado para outras línguas e níveis.
+Dentro da sala de aula ou na modalidade a distância, o professor controla a página em Web.
+Um aluno escolhe um número e lê em voz alta a informação, então diz se ela é verdadeira ou falsa e pergunta a um colega. O jogo foi pensado para estudantes iniciantes  e está inserido em aulas num contexto acadêmico!
+
+Apesar de ser um jogo bem simples, onde uma turma de alunos revisa seus conhecimentos sobre os números e treina a leitura, pode facilmente ser editado para outras línguas e níveis.
 
 Este site estará rodando na Vercel acessível em:
 https://cla-ju.vercel.app
